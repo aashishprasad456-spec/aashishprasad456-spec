@@ -1,5 +1,19 @@
-<h1 align="center">Hello, I'm Aashish Prasad !</h1>
-<h3 align="center">Engineering Student | AI & ML Enthusiast | Problem Solver</h3>
+<!-- 🔥 TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Aashish%20Prasad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">Engineering Student | AI & ML Enthusiast | Finance Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aashishprasad456-spec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!-- 🔥 SECOND BACKGROUND STRIP -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=80&section=header" />
+</p>
+
 
 ---
 
