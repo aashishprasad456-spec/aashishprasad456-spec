@@ -1,3 +1,4 @@
+<!-- 🌌 PREMIUM HERO SECTION -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Aashish%20Prasad&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=32&desc=Engineering%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Finance%20Enthusiast&descAlignY=55&descSize=20" 
@@ -8,25 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=aashishprasad456-spec&label=Profile%20views&color=6A5ACD&style=for-the-badge" alt="profile views" />
 </p>
 
-<!-- ✨ TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Engineering+Student;AI+%26+ML+Enthusiast;Finance+Enthusiast" />
-</p>
-
-<!-- 👁️ PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashishprasad456-spec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<!-- 🔥 ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=70&section=header&animation=fadeIn" />
-</p>
-
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE with specialization in CLoud Computing and Automation at VIT Bhopal University, Batch of 2025-29.
+- 🎓 B.Tech CSE with specialization in Cloud Computing and Automation at **VIT Bhopal University**, Batch of **2025–2029**
 - 💻 Passionate about **Python, Java, Machine Learning, and Web Development**
 - 📊 Built projects like **Linear Regression, Event Management System**
 - 🌱 Currently learning **Data Structures, AI tools, and frontend development**
@@ -36,6 +22,7 @@
 ---
 
 ## 🛠️ Tech Stack
+
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -50,10 +37,10 @@
 ---
 
 ## 📌 Featured Projects
-- 📈 **Linear Regression** → ML model implementation using Python
-- 🎟️ **Event Management System** → Python-based project
-- 🌐 **Trial** → My first HTML repository
-- 📚 **Digital Literacy Portfolio** → Academic showcase project
+- 📈 **Linear Regression** → ML model implementation using Python  
+- 🎟️ **Event Management System** → Python-based project  
+- 🌐 **Trial** → My first HTML repository  
+- 📚 **Digital Literacy Portfolio** → Academic showcase project  
 
 ---
 
