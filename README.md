@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aashish Prasad</h1>
-<h3 align="center">CSE Student | Python Developer | AI & ML Enthusiast | Problem Solver</h3>
+<h1 align="center">Hello, I'm Aashish Prasad !</h1>
+<h3 align="center">CSE Student | AI & ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/aashishprasad456-spec">
@@ -38,18 +38,6 @@
 - 🌐 **Trial** → My first HTML repository
 - 📚 **Digital Literacy Portfolio** → Academic showcase project
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishprasad456-spec&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishprasad456-spec&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
 
 
-⭐ **"Code. Learn. Build. Repeat."**
+**"Code. Learn. Build. Repeat."**
