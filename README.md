@@ -1,11 +1,5 @@
 <h1 align="center">Hello, I'm Aashish Prasad !</h1>
-<h3 align="center">CSE Student | AI & ML Enthusiast | Problem Solver</h3>
-
-<p align="center">
-  <a href="https://github.com/aashishprasad456-spec">
-    <img src="https://komarev.com/ghpvc/?username=aashishprasad456-spec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+<h3 align="center">Engineering Student | AI & ML Enthusiast | Problem Solver</h3>
 
 ---
 
