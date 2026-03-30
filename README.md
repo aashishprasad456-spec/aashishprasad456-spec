@@ -1,6 +1,11 @@
-<!-- 🔥 ANIMATED TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Aashish%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Aashish%20Prasad&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=32&desc=Engineering%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Finance%20Enthusiast&descAlignY=55&descSize=20" 
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aashishprasad456-spec&label=Profile%20views&color=6A5ACD&style=for-the-badge" alt="profile views" />
 </p>
 
 <!-- ✨ TYPING ANIMATION -->
