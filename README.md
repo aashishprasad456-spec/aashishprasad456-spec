@@ -1,18 +1,23 @@
-<!-- 🌌 PREMIUM HERO SECTION -->
+<!-- 🌌 PREMIUM ANIMATED HERO -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Aashish%20Prasad&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=32&desc=Engineering%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Finance%20Enthusiast&descAlignY=55&descSize=20" 
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Aashish%20Prasad&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Engineering%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Finance%20Enthusiast&descAlignY=56&descSize=20"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashishprasad456-spec&label=Profile%20views&color=6A5ACD&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aashishprasad456-spec&label=Profile%20Views&color=203a43&style=for-the-badge" alt="profile views" />
+</p>
+
+<!-- ✨ SMOOTH ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:141E30,100:243B55&height=70&section=header&animation=fadeIn" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE with specialization in Cloud Computing and Automation at **VIT Bhopal University**, Batch of **2025–2029**
+- 🎓 B.Tech CSE with specialization in **Cloud Computing and Automation** at **VIT Bhopal University**, Batch of **2025–2029**
 - 💻 Passionate about **Python, Java, Machine Learning, and Web Development**
 - 📊 Built projects like **Linear Regression, Event Management System**
 - 🌱 Currently learning **Data Structures, AI tools, and frontend development**
@@ -22,7 +27,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -37,10 +41,10 @@
 ---
 
 ## 📌 Featured Projects
-- 📈 **Linear Regression** → ML model implementation using Python  
-- 🎟️ **Event Management System** → Python-based project  
-- 🌐 **Trial** → My first HTML repository  
-- 📚 **Digital Literacy Portfolio** → Academic showcase project  
+- 📈 **Linear Regression** → ML model implementation using Python
+- 🎟️ **Event Management System** → Python-based project
+- 🌐 **Trial** → My first HTML repository
+- 📚 **Digital Literacy Portfolio** → Academic showcase project
 
 ---
 
